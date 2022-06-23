@@ -1,0 +1,13 @@
+body {
+  background-color: black;
+  color: white;
+}
+div#area {
+  font: normal 20pt arial;
+  background-color: rgb(51, 148, 51);
+  color: white;
+  width: 200px;
+  height: 200px;
+  line-height: 200px;
+  text-align: center;
+}

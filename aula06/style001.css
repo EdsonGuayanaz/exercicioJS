@@ -1,0 +1,11 @@
+body {
+  background-color: rgb(27, 26, 26);
+  color: rgb(255, 255, 255);
+  font: normal arial 16pt;
+}
+h1 {
+  color: rgb(255, 10, 10);
+}
+p {
+  color: yellow;
+}
